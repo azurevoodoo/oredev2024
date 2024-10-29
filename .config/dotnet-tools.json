@@ -1,0 +1,34 @@
+{
+  "version": 1,
+  "isRoot": true,
+  "tools": {
+    "bri": {
+      "version": "2024.11.4.62",
+      "commands": [
+        "bri"
+      ],
+      "rollForward": false
+    },
+    "ari": {
+      "version": "2024.9.21.75",
+      "commands": [
+        "ari"
+      ],
+      "rollForward": false
+    },
+    "dpi": {
+      "version": "2024.11.4.84",
+      "commands": [
+        "dpi"
+      ],
+      "rollForward": false
+    },
+    "microsoft.sqlpackage": {
+      "version": "162.4.92",
+      "commands": [
+        "sqlpackage"
+      ],
+      "rollForward": false
+    }
+  }
+}

@@ -1,0 +1,4 @@
+
+[submodule "DotNet/DotNetDocs/theme"]
+	path = DotNet/DotNetDocs/theme
+	url = https://github.com/statiqdev/Docable.git
