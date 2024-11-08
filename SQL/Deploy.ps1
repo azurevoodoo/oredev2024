@@ -2,7 +2,7 @@
 . .\Variables.ps1
 
 # Build the project
-dotnet build
+dotnet build ./DevOpsDocs
 
 # Publish the database
 [string] $BinPath = Resolve-Path ./DevOpsDocs/bin/Debug
